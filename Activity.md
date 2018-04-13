@@ -46,3 +46,16 @@
     windowActionBar         是否显示ActionBar
 
     windowNoTitle          是否显示TitleBar，经常和windowActionBar一起使用
+
+
+### 4、界面跳转
+
+    使用Handler PostDelay
+
+    new Handler().postDelayed(new Runnable(){   
+    public void run() {   
+        //execute the task   
+        }   
+     }, delaytime);
+
+### 5、
