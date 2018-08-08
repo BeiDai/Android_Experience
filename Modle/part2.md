@@ -207,7 +207,7 @@ JDBC API：与数据库建立连接、执行SQL语句、处理结果
 #### Result常用方法
 
 | 方法名 | 说明 |
-|:----------
+|:----------|-----------:|
 | boolean next() | 将光标从当前位置向下移动一行 |
 | boolean previous | 游标当前位置向上移动一行 |
 | void close() | 关闭ResulSet对象 |
