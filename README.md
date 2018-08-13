@@ -13,7 +13,10 @@
 - [SharedPreferences数据格式使用](/Modle/SharedPreferences.md)
 - [Thread建立线程处理任务](/Modle/thread.md)
 - [网络连接Socket](/Modle/connector.md)
+- [欢迎界面功能](/Modle/welcome.md)
 - [底部导航与桌面菜单](/Modle/ViewPager+Fragment.md)
+- [账号注册界面](/Modle/register.md)
+
 
 ## 安卓网络编程学习
 

@@ -1,6 +1,6 @@
 # SharedPreferences数据格式使用
 
-- 写入账号密码
+- **写入账号密码**
 
       public void rememberMe(String uid_data),String pwd_data)){
           SharedPreferences sp = getPreferences(MODE_PRIVATE);
@@ -14,7 +14,7 @@
           editor.commit();
       }
 
-- 读取账号密码
+- **读取账号密码**
 
       public void checkIfRemember(){
               SharedPreferences sp = getPreferences(MODE_PRIVATE);
